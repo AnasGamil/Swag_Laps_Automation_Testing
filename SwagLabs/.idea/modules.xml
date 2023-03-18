@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwagLabs.iml" filepath="$PROJECT_DIR$/.idea/SwagLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwagLabsTestingPRJ/SwagLabsTestingPRJ.iml" filepath="$PROJECT_DIR$/SwagLabsTestingPRJ/SwagLabsTestingPRJ.iml" />
+    </modules>
+  </component>
+</project>
